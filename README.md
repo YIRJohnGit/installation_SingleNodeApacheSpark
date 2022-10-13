@@ -1,5 +1,5 @@
 
-## Single Node Apache Spark Installation on Ubuntu 16.04 ##
+## Single Node Hadoop Apache Spark Installation on Ubuntu 16.04 ##
 #### Step 1: Install Java  ####
 Java is the main prerequisite for Apache Spark. Install latest java. 
 ```
